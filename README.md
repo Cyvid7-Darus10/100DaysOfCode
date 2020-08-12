@@ -17,3 +17,5 @@
 |Day 8|August 08, 2020| Solving some Algorithm based problems | [Project Repo](https://github.com/Cyvid7-Darus10/Algorithms)||
 |Day 9|August 09, 2020| Finished CS50 first week| [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
 |Day 10|August 10, 2020| Reviewing C Language| [Coursera](https://www.coursera.org/learn/programming-fundamentals/)|
+|Day 11|August 11, 2020| Reviewing C Language| [Coursera](https://www.coursera.org/learn/programming-fundamentals/)|
+|Day 12|August 12, 2020| Udacity's Software Engineering Practices | [Udacity](https://classroom.udacity.com/courses/ud090)|
