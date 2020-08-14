@@ -19,3 +19,5 @@
 |Day 10|August 10, 2020| Reviewing C Language| [Coursera](https://www.coursera.org/learn/programming-fundamentals/)|
 |Day 11|August 11, 2020| Reviewing C Language| [Coursera](https://www.coursera.org/learn/programming-fundamentals/)|
 |Day 12|August 12, 2020| Udacity's Software Engineering Practices | [Udacity](https://classroom.udacity.com/courses/ud090)|
+|Day 13|August 13, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges/encryption/problem)|
+|Day 14|August 14, 2020| Learning Python | [Linkedin](https://www.linkedin.com/learning/learning-python-2/using-file-system-shell-methods?autoplay=true)|
