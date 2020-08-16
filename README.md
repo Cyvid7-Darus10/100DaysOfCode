@@ -22,3 +22,5 @@
 |Day 13|August 13, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges/encryption/problem)|
 |Day 14|August 14, 2020| Learning Python | [Linkedin](https://www.linkedin.com/learning/learning-python-2/using-file-system-shell-methods?autoplay=true)|
 |Day 15|August 15, 2020| First Chatbot with Rasa and Python | [Project Repo](https://github.com/Cyvid7-Darus10/Time-Zone-Chatbot)|
+|Day 16|August 16, 2020| Udacity's Software Engineering Practices II | [Udacity](https://classroom.udacity.com/courses/ud090)|
+|Day 17|August 17, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges/ones-and-twos/problem)|
