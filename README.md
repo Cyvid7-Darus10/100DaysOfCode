@@ -28,3 +28,5 @@
 |Day 19|August 19, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
 |Day 20|August 20, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
 |Day 21|August 21, 2020| Discrete Math for Computer Science | [Coursera](https://www.coursera.org/specializations/discrete-mathematics)|
+|Day 22|August 22, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
+|Day 23|August 23, 2020| Learning Python | [Linkedin](https://www.linkedin.com/learning/learning-python-2/using-file-system-shell-methods?autoplay=true)|
