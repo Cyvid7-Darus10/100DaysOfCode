@@ -32,3 +32,4 @@
 |Day 23|August 23, 2020| Learning Python | [Linkedin](https://www.linkedin.com/learning/learning-python-2/using-file-system-shell-methods?autoplay=true)|
 |Day 24|August 24, 2020| Coursera Lessons | |
 |Day 25|August 25, 2020| REST DAY - Sister's Birthday! | |
+|Day 26|August 26, 2020| Logic Design and Digital Computer Circuits | [Khan Academy](https://www.khanacademy.org/)|
