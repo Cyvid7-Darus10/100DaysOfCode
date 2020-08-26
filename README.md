@@ -8,7 +8,7 @@
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Day 1|August 01, 2020| Created a Portfolio Website | [Website](https://middle-ground.media/)|
-|Day 2|August 02, 2020| Solve some algorithmic problems in HackerRank | [HackerRank](https://www.hackerrank.com/challenges/encryption/problem)|
+|Day 2|August 02, 2020| Solved some algorithmic problems in HackerRank | [HackerRank](https://www.hackerrank.com/challenges/encryption/problem)|
 |Day 3|August 03, 2020| Added moving background using javascript | [Project Repo](https://github.com/Cyvid7-Darus10/start-page)|
 |Day 4|August 04, 2020| Installed Arch Linux | [YouTube](https://www.youtube.com/watch?v=UiYS8xWFXLY&t=284s)|
 |Day 5|August 05, 2020| Coursera Lessons | |
