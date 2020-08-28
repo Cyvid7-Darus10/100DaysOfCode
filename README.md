@@ -34,3 +34,4 @@
 |Day 25|August 25, 2020| REST DAY - Sister's Birthday! | |
 |Day 26|August 26, 2020| Logic Design and Digital Computer Circuits | [Khan Academy](https://www.khanacademy.org/)|
 |Day 27|August 27, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
+|Day 28|August 28, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
