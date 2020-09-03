@@ -38,3 +38,5 @@
 |Day 29|August 29, 2020| Got Sick :cold_sweat: ||
 |Day 30|August 31, 2020| Algorithmic Toolbox | [Coursera](https://www.coursera.org/)|
 |Day 31|Sept 01, 2020| Studying CS50 Course | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
+|Day 32|Sept 02, 2020|Coursera Lessons | |
+|Day 33|Sept 03, 2020|Coursera Lessons | |
