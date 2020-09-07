@@ -42,3 +42,4 @@
 |Day 33|Sept 03, 2020|Coursera Lessons | |
 |Day 34|Sept 04, 2020|C++ Course | [Programming Hub](https://programminghub.io/)|
 |Day 35|Sept 05, 2020|Rust Course | [Programming Hub](https://programminghub.io/)|
+|Day 36|Sept 06, 2020|Cyber Security Course | [Programming Hub](https://programminghub.io/)|
