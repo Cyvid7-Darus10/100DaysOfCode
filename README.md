@@ -45,3 +45,4 @@
 |Day 36|Sept 06, 2020|Cyber Security Course | [Programming Hub](https://programminghub.io/)|
 |Day 37|Sept 07, 2020| Studying CS50 Course | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
 |Day 38|Sept 08, 2020| Programming Paradigms ||
+|Day 39|Sept 09, 2020| Solving some Algorithm based problems | [Project Repo](https://github.com/Cyvid7-Darus10/Algorithms)||
