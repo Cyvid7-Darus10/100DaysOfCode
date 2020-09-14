@@ -43,10 +43,11 @@
 |Day 34|Sept 04, 2020|C++ Course | [Programming Hub](https://programminghub.io/)|
 |Day 35|Sept 05, 2020|Rust Course | [Programming Hub](https://programminghub.io/)|
 |Day 36|Sept 06, 2020|Cyber Security Course | [Programming Hub](https://programminghub.io/)|
-|Day 37|Sept 07, 2020| Studying CS50 Course | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
-|Day 38|Sept 08, 2020| Programming Paradigms ||
-|Day 39|Sept 09, 2020| Solving some Algorithm based problems | [Project Repo](https://github.com/Cyvid7-Darus10/Algorithms)||
-|Day 40|Sept 10, 2020| Logic Design and Digital ComputerCircuits ||
-|Day 41|Sept 11, 2020| C++ Review |Solo Learn|
-|Day 42|Sept 12, 2020| Logic Design and Digital ComputerCircuits |Online CLass|
-|Day 43|Sept 13, 2020| Logic Design and Digital ComputerCircuits |Online CLass|
+|Day 37|Sept 07, 2020|Studying CS50 Course | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
+|Day 38|Sept 08, 2020|Programming Paradigms ||
+|Day 39|Sept 09, 2020|Solving some Algorithm based problems | [Project Repo](https://github.com/Cyvid7-Darus10/Algorithms)||
+|Day 40|Sept 10, 2020|Logic Design and Digital ComputerCircuits ||
+|Day 41|Sept 11, 2020|C++ Review |Solo Learn|
+|Day 42|Sept 12, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 43|Sept 13, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 44|Sept 14, 2020|School Works;Break|Online Class| 
