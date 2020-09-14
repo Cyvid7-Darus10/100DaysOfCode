@@ -49,3 +49,4 @@
 |Day 40|Sept 10, 2020| Logic Design and Digital ComputerCircuits ||
 |Day 41|Sept 11, 2020| C++ Review |Solo Learn|
 |Day 42|Sept 12, 2020| Logic Design and Digital ComputerCircuits |Online CLass|
+|Day 43|Sept 13, 2020| Logic Design and Digital ComputerCircuits |Online CLass|
