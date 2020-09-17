@@ -52,3 +52,4 @@
 |Day 43|Sept 13, 2020|Logic Design and Digital ComputerCircuits |Online Class|
 |Day 44|Sept 14, 2020|School Works;Break|Online Class| 
 |Day 45|Sept 15, 2020| Coursera Lessons | |
+|Day 46|Sept 16, 2020| Implementing Data Structure | |
