@@ -53,3 +53,4 @@
 |Day 44|Sept 14, 2020|School Works;Break|Online Class| 
 |Day 45|Sept 15, 2020| Coursera Lessons | |
 |Day 46|Sept 16, 2020| Implementing Data Structure | |
+|Day 47|Sept 17, 2020|School Works;Break|Online Class| 
