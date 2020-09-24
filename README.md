@@ -45,7 +45,7 @@
 |Day 36|Sept 06, 2020|Cyber Security Course | [Programming Hub](https://programminghub.io/)|
 |Day 37|Sept 07, 2020|Studying CS50 Course | [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
 |Day 38|Sept 08, 2020|Programming Paradigms ||
-|Day 39|Sept 09, 2020|Solving some Algorithm based problems | [Project Repo](https://github.com/Cyvid7-Darus10/Algorithms)||
+|Day 39|Sept 09, 2020|Solving some Algorithm based problems | [Project Repo](https://github.com/Cyvid7-Darus10/Algorithms)|
 |Day 40|Sept 10, 2020|Logic Design and Digital ComputerCircuits ||
 |Day 41|Sept 11, 2020|C++ Review |Solo Learn|
 |Day 42|Sept 12, 2020|Logic Design and Digital ComputerCircuits |Online Class|
@@ -56,3 +56,4 @@
 |Day 47|Sept 17, 2020|School Works;Break|Online Class| 
 |Day 48|Sept 18, 2020|School Works;Break|Online Class| 
 |Day 49|Sept 19, 2020|Learning Haskell|Online Class| 
+|Day 50|Sept 20, 2020|Learning Haskell| [YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8)|
