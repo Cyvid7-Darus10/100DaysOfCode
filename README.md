@@ -59,3 +59,4 @@
 |Day 50|Sept 20, 2020|Learning Haskell| [YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8)|
 |Day 51|Sept 21, 2020|School Works;Break|Online Class| 
 |Day 52|Sept 22, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 53|Sept 23, 2020|Coursera Lessons | |
