@@ -60,3 +60,5 @@
 |Day 51|Sept 21, 2020|School Works;Break|Online Class| 
 |Day 52|Sept 22, 2020|Logic Design and Digital ComputerCircuits |Online Class|
 |Day 53|Sept 23, 2020|Coursera Lessons | |
+|Day 53|Sept 24, 2020|Created a Data Analyis on Covid-19  | |
+
