@@ -63,3 +63,4 @@
 |Day 54|Sept 24, 2020|Created a Data Analyis on Covid-19  | |
 |Day 55|Sept 25, 2020|Coursera Lessons | |
 |Day 56|Sept 26, 2020|School Works;Break|Online Class| 
+|Day 57|Sept 27, 2020|Learned how to use python modules||
