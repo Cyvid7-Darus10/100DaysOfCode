@@ -64,3 +64,4 @@
 |Day 55|Sept 25, 2020|Coursera Lessons | |
 |Day 56|Sept 26, 2020|School Works;Break|Online Class| 
 |Day 57|Sept 27, 2020|Learned how to use python modules||
+|Day 58|Sept 28, 2020|Learning Haskell| [YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8)|
