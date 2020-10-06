@@ -66,4 +66,5 @@
 |Day 57|Sept 27, 2020|Learned how to use python modules||
 |Day 58|Sept 28, 2020|Learning Haskell| [YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8)|
 |Day 59|Sept 29, 2020|Logic Design and Digital ComputerCircuits |Online Class|
-|Day 60|Sept 30, 2020|School Works;Break|Online Class| 
+|Day 60|Sept 30, 2020|School Works;Break|Online Class|
+|Day 61|Oct 1, 2020|School Works;Break|Online Class| 
