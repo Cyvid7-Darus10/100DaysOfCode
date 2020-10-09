@@ -69,3 +69,4 @@
 |Day 60|Sept 30, 2020|School Works;Break|Online Class|
 |Day 61|Oct 1, 2020|School Works;Break|Online Class| 
 |Day 62|Oct 2, 2020|School Works;Break|Online Class| 
+|Day 63|Oct 3, 2020|School Works;Break|Online Class| 
