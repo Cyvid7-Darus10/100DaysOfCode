@@ -70,3 +70,4 @@
 |Day 61|Oct 1, 2020|School Works;Break|Online Class| 
 |Day 62|Oct 2, 2020|School Works;Break|Online Class| 
 |Day 63|Oct 3, 2020|School Works;Break|Online Class| 
+|Day 64|Oct 4, 2020|Logic Design and Digital ComputerCircuits |Online Class|
