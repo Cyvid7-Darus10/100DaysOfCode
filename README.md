@@ -58,7 +58,7 @@
 |Day 49|Sept 19, 2020|Learning Haskell|Online Class| 
 |Day 50|Sept 20, 2020|Learning Haskell| [YouTube](https://www.youtube.com/watch?v=02_H3LjqMr8)|
 |Day 51|Sept 21, 2020|School Works;Break|Online Class| 
-|Day 52|Sept 22, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 52|Sept 22, 2020|Logic Design and Digital Computer Circuits |Online Class|
 |Day 53|Sept 23, 2020|Coursera Lessons | |
 |Day 54|Sept 24, 2020|Created a Data Analyis on Covid-19  | |
 |Day 55|Sept 25, 2020|Coursera Lessons | |
@@ -70,4 +70,5 @@
 |Day 61|Oct 1, 2020|School Works;Break|Online Class| 
 |Day 62|Oct 2, 2020|School Works;Break|Online Class| 
 |Day 63|Oct 3, 2020|School Works;Break|Online Class| 
-|Day 64|Oct 4, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 64|Oct 4, 2020|Logic Design and Digital Computer Circuits |Online Class|
+|Day 65|Oct 5, 2020|School Works;Break|Online Class| 
