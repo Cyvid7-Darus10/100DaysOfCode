@@ -73,3 +73,4 @@
 |Day 64|Oct 4, 2020|Logic Design and Digital Computer Circuits |Online Class|
 |Day 65|Oct 5, 2020|School Works;Break|Online Class| 
 |Day 66|Oct 6, 2020|Data Structures|Online Class| 
+|Day 67|Oct 7, 2020|Logic Design and Digital Computer Circuits |Online Class|
