@@ -75,3 +75,4 @@
 |Day 66|Oct 6, 2020|Data Structures|Online Class| 
 |Day 67|Oct 7, 2020|Logic Design and Digital Computer Circuits |Online Class|
 |Day 68|Oct 8, 2020|School Works;Break|Online Class| 
+|Day 69|Oct 9, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
