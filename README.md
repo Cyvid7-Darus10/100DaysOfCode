@@ -80,3 +80,4 @@
 |Day 71|Oct 11, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
 |Day 72|Oct 12, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
 |Day 73|Oct 13, 2020|School Works;Break|Online Class| 
+|Day 74|Oct 14, 2020|Logic Design and Digital ComputerCircuits |Online Class|
