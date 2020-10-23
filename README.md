@@ -81,3 +81,4 @@
 |Day 72|Oct 12, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
 |Day 73|Oct 13, 2020|School Works;Break|Online Class| 
 |Day 74|Oct 14, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 75|Oct 15, 2020|Learning Prolog| [YouTube](https://www.youtube.com/watch?v=SykxWpFwMGs)|
