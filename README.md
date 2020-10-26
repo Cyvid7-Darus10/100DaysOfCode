@@ -84,3 +84,4 @@
 |Day 75|Oct 15, 2020|Learning Prolog| [YouTube](https://www.youtube.com/watch?v=SykxWpFwMGs)|
 |Day 76|Oct 16, 2020|School Works;Break|Online Class| 
 |Day 77|Oct 17, 2020|School Works;Break|Online Class| 
+|Day 78|Oct 18, 2020|Data Structures|Online Class| 
