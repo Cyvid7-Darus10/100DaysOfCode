@@ -85,3 +85,4 @@
 |Day 76|Oct 16, 2020|School Works;Break|Online Class| 
 |Day 77|Oct 17, 2020|School Works;Break|Online Class| 
 |Day 78|Oct 18, 2020|Data Structures|Online Class| 
+|Day 79|Oct 19, 2020|Logic Design and Digital ComputerCircuits |Online Class|
