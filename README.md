@@ -86,3 +86,4 @@
 |Day 77|Oct 17, 2020|School Works;Break|Online Class| 
 |Day 78|Oct 18, 2020|Data Structures|Online Class| 
 |Day 79|Oct 19, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 80|Oct 20 2020| Finished CS50 second week| [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
