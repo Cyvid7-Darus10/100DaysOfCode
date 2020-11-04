@@ -92,3 +92,4 @@
 |Day 83|Oct 23, 2020|School Works;Break|Online Class| 
 |Day 84|Oct 24, 2020| HackerRank Problem Solving | [HackerRank](https://www.hackerrank.com/challenges)|
 |Day 85|Oct 25, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 86|Oct 26, 2020|Made my First Godot Game |[Repo](https://github.com/Cyvid7-Darus10/Godot-Games)|
