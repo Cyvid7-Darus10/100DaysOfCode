@@ -94,3 +94,4 @@
 |Day 85|Oct 25, 2020|Logic Design and Digital ComputerCircuits |Online Class|
 |Day 86|Oct 26, 2020|Made my First Godot Game |[Repo](https://github.com/Cyvid7-Darus10/Godot-Games)|
 |Day 87|Oct 27, 2020|Python Assignment|Online Class| 
+|Day 88|Oct 28, 2020| Finishing CS50 third week| [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
