@@ -97,3 +97,4 @@
 |Day 88|Oct 28, 2020| Finishing CS50 third week| [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)|
 |Day 89|Oct 29, 2020|School Works;Break|Online Class| 
 |Day 90|Oct 30, 2020|School Works;Break|Online Class| 
+|Day 91|Oct 31, 2020|School Works;Break|Online Class|
