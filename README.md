@@ -98,3 +98,4 @@
 |Day 89|Oct 29, 2020|School Works;Break|Online Class| 
 |Day 90|Oct 30, 2020|School Works;Break|Online Class| 
 |Day 91|Oct 31, 2020|School Works;Break|Online Class|
+|Day 92|Nov 1, 2020|Logic Design and Digital ComputerCircuits |Online Class|
