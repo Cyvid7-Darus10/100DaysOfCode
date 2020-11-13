@@ -101,3 +101,4 @@
 |Day 92|Nov 1, 2020|Logic Design and Digital ComputerCircuits |Online Class|
 |Day 93|Nov 2, 2020|Logic Design and Digital ComputerCircuits |Online Class|
 |Day 94|Nov 3, 2020|Data Structures|Online Class| 
+|Day 95|Nov 4, 2020|Data Structures|Online Class| 
