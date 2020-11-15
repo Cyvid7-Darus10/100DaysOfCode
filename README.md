@@ -103,3 +103,4 @@
 |Day 94|Nov 3, 2020|Data Structures|Online Class| 
 |Day 95|Nov 4, 2020|Data Structures|Online Class|
 |Day 96|Nov 5, 2020|Data Structures|Online Class|
+|Day 97|Nov 6, 2020|Python Assignment|Online Class| 
