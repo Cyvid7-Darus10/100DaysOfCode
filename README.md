@@ -106,3 +106,4 @@
 |Day 97|Nov 6, 2020|Python Assignment|Online Class| 
 |Day 98|Nov 7, 2020|Python Assignment|Online Class| 
 |Day 99|Nov 8, 2020|Data Structures|Online Class|
+|Day 100|Nov 9, 2020|Data Structures|Online Class|
