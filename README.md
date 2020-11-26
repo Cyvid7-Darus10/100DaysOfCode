@@ -110,3 +110,4 @@
 |Day 101|Nov 10, 2020|Data Structures|Online Class|
 |Day 102|Nov 11, 2020|School Works;Break|Online Class|
 |Day 103|Nov 12, 2020|Python Assignment|Online Class| 
+|Day 104|Nov 13, 2020|Logic Design and Digital ComputerCircuits |Online Class|
