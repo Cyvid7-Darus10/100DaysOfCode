@@ -111,5 +111,8 @@
 |Day 102|Nov 11, 2020|School Works;Break|Online Class|
 |Day 103|Nov 12, 2020|Python Assignment|Online Class| 
 |Day 104|Nov 13, 2020|Logic Design and Digital ComputerCircuits |Online Class|
+|Day 105|Nov 14, 2020|Data Structures|Online Class|
+|Day 106|Nov 15, 2020|Data Structures|Online Class|
+|Day 107|Nov 16, 2020|Python Assignment|Online Class| 
 |Day 105|Nov 27, 2020|AWS Siklab Pilipinas Webinar||
 |Day 106|Nov 28, 2020|AWS Siklab Pilipinas Code Jam||
